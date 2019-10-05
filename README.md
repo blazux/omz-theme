@@ -2,7 +2,8 @@
 
 What does it do ?
 
-Basically, exactly the same as everyone else's, but with a nice smiley face which get mad each time you do a mistake.
+Basically, exactly the same as everyone else's, but with a nice smiley face which get mad each time you do a mistake. 
+༼づ｡◕‿‿◕｡༽づ --> ༼づ｡ಠ益ಠ｡༽づ
 
 Nothing more ?
 
